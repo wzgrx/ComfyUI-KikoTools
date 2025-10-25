@@ -1,19 +1,19 @@
 # Development dependencies for ComfyUI-KikoTools
 
 # Testing framework
-pytest>=7.0.0
-pytest-cov>=4.0.0
-pytest-mock>=3.10.0
+pytest
+pytest-cov
+pytest-mock
 
 # Code quality
-black>=23.0.0
-flake8>=6.0.0
-mypy>=1.0.0
+black
+flake8
+mypy
 
 # Development utilities
-pre-commit>=3.0.0
+pre-commit
 
 # ComfyUI testing (mock dependencies for unit tests)
-torch>=2.0.0
-numpy>=1.24.0
-pillow>=9.0.0
+torch
+numpy
+pillow
